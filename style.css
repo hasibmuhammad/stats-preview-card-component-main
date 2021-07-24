@@ -47,7 +47,7 @@ body {
 }
 
 .container {
-  margin: 100px 70px;
+  margin: 50px 50px;
   background: var(--card-background);
   border-radius: 4px;
 }
